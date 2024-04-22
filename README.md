@@ -1,13 +1,9 @@
 
-# GPHY-491-591 Data Science for Sustainability
+# Climate Health Data Workshop 
 
-Developed by Cascade Tuholske, Montana State University  
+Developed by Eqi Luo, Andrew Zimmer, and Cascade Tuholske, Montana State University  
 
-While specifically developed for MSU students, this course leverages materials from [UCSB EDS2017](https://github.com/environmental-data-science/eds217_2023), developed by Prof. [Kelly Caylor](https://github.com/kcaylor), and from [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html), developed by Prof. [Ryan Abernathey](https://github.com/rabernat).
-
-## Course Website
-
-The course description, learning goals, format, and outline with links to all activities can found on [Bright Space / DSL](https://ecat.montana.edu/d2l/home/794961). 
+While specifically developed for MSU students, this course leverages materials from [UCSB EDS2017](https://github.com/environmental-data-science/eds217_2023), developed by Prof. [Kelly Caylor](https://github.com/kcaylor), and from [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html), developed by Prof. [Ryan Abernathey](https://github.com/rabernat), as well as [GPHY-491-591](https://github.com/cascadet/GPHY-491-591) developed by Cascade Tuholske. 
 
 ## How to use this repository
 
