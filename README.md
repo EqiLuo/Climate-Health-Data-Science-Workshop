@@ -3,7 +3,9 @@
 
 Developed by Eqi Luo, Andrew Zimmer, and Cascade Tuholske, Montana State University  
 
-While specifically developed for MSU students, this course leverages materials from [UCSB EDS2017](https://github.com/environmental-data-science/eds217_2023), developed by Prof. [Kelly Caylor](https://github.com/kcaylor), and from [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html), developed by Prof. [Ryan Abernathey](https://github.com/rabernat), as well as [GPHY-491-591](https://github.com/cascadet/GPHY-491-591) developed by Cascade Tuholske. 
+While specifically developed for the Climate Health Data Science workshop, this course leverages materials from [UCSB EDS2017](https://github.com/environmental-data-science/eds217_2023), developed by Prof. [Kelly Caylor](https://github.com/kcaylor), and from [An Introduction to Earth and Environmental Data Science](https://earth-env-data-science.github.io/intro.html), developed by Prof. [Ryan Abernathey](https://github.com/rabernat), as well as [GPHY-491-591](https://github.com/cascadet/GPHY-491-591) developed by Cascade Tuholske. 
+
+
 
 ## How to use this repository
 
@@ -36,4 +38,8 @@ While specifically developed for MSU students, this course leverages materials f
 	     You will now have a new local directory in your instance called `Climate-Health-Data-Science-Workshop`, which contains all of the course materials. We will download and practice using all of the required software to use these course materials on Day 0 of the course.
 
 
+## Data Preprocessing for DHS houesehold survey
 
+One of the example datasets used in this tutorial is the filtered household survey data collected in 2014 by The Demographic and Health Surveys (DHS) Program in Ghana. Due to user license agreements and data sensitivity, specific measures have been implemented to ensure that the information remains confidential and is used in compliance with DHS data usage policies.
+
+In the preprocessing of the 2014 DHS household survey data from Ghana, geographical coordinates were randomly shifted by approximately 2.5 km and rounded to six decimal places to anonymize locations. Identifiers for 'mother_id', 'household_id', and 'cluster_id' were reassigned to maintain data confidentiality. The dataset was balanced by selecting 500 urban and 500 rural records, ensuring equitable representation. After processing, the sampled data was appended back to the original dataset and sorted by the newly assigned identifiers to maintain structured data integrity for further analysis.
